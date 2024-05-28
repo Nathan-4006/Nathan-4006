@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nathan-4006
 - 👀 I’m interested in Test analyst
-- 🌱 I’m currently learning python and Django foe web development
+- 🌱 I’m currently learning python and Django for web development
 - 📫 Reach me MailId:gopinathan4006@gamil.com
 
 <!---
